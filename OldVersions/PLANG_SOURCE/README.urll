@@ -1,0 +1,16 @@
+--URLL-version=2;
+-- Project language file source
+-- For: Learn Modelica
+
+-- Project language file source:
+https://github.com/mbonvini/ModelicaInAction/blob/master/modelica/HelloWorld.mo
+
+-- This projects project language file was modified from this example.
+
+-- Visit the home repository
+https://github.com/mbonvini/ModelicaInAction/
+
+-- File info
+-- File type: URLL source file (*.urll)
+-- File version: 1 (2022, Sunday, April 17th at 4:33 pm PST)
+-- Line count (including blank lines and compiler line): 17
